@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1HIbzBaVTisURnlGKk5spU/bO9LvBPDqk878KaJmQCBU2ZKbpH9hx+nJaN7nZYslyRqMDxyoC6MLc+RIcxmVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\PokemonMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\pokemonmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\pokemonmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|c:\\users\\this pc\\source\\repos\\pokemonmvc\\pokemonmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9F851C-966D-4345-AE68-3A94DA0971FF}|PokemonMVC\\PokemonMVC.csproj|solutionrelative:pokemonmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "PokemonMVC\\Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "PokemonMVC\\Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:22:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Pokemon\\Details.cshtml",
+              "RelativeDocumentMoniker": "PokemonMVC\\Views\\Pokemon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Pokemon\\Details.cshtml",
+              "RelativeToolTip": "PokemonMVC\\Views\\Pokemon\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:23:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "PokemonMVC\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Models\\Pokemon.cs",
+              "RelativeToolTip": "PokemonMVC\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:20:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PokemonMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PokemonMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:38:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PokemonMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PokemonMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:35:18.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PokemonMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PokemonMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:35:20.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "PokemonMVC\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "PokemonMVC\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:22:05.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PokemonMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PokemonMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:47:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PokemonMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PokemonMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T18:34:29.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PokemonMVC",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\PokemonMVC.csproj",
+              "RelativeDocumentMoniker": "PokemonMVC\\PokemonMVC.csproj",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\PokemonMVC.csproj",
+              "RelativeToolTip": "PokemonMVC\\PokemonMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T18:28:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\PokemonMVC\\PokemonMVC\\Program.cs",
+              "RelativeToolTip": "PokemonMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:23:45.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
